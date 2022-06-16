@@ -1,7 +1,6 @@
-# BVE
-02系
-
-
+# BVE用メーターステー
+ATC対応速度計を動かしてみる　で使用したATCメーター用のメーターステーのSTLデータになります。
+https://qiita.com/usashirou/items/ba6261eaae0b1a5fe1e6
 
 # 著作権表示
 __表示 - 非営利 - 継承 4.0 国際__
